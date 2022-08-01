@@ -1,0 +1,39 @@
+body{
+    margin: 100px;
+    background-color: rgba(0, 0, 0, 0.452);
+}
+h2 {
+    
+    background-color: rgba(10, 10, 10, 0.664);
+    color:white;
+}
+h1 {
+    letter-spacing: 10px;
+    color: white;
+    background-color:rgba(10, 10, 10, 0.664) ; 
+    text-align: center;
+}
+
+dt{
+    font-weight: bold;
+}
+
+.footer {
+    bottom: 10px;
+    height: 70px;
+    text-align: center;
+    background-color:rgba(10, 10, 10, 0.664) ; 
+    color:white;
+}
+
+header {
+    height: 120px;
+}
+img{
+    max-width:200px;
+    max-height:200px;
+}
+.foto {
+    text-align: center;
+    
+}
